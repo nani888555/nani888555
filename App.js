@@ -183,7 +183,9 @@ const styles = StyleSheet.create({
     fontSize: 20,
     color: "black",
     fontWeight: "bold",
+    
   },
+
   number: {
     fontSize: 30,
     color: "white",
